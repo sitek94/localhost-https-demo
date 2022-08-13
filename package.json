@@ -1,6 +1,10 @@
 {
   "name": "localhost-https-demo",
+  "type": "module",
   "scripts": {
     "start": "node index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.3"
   }
 }
